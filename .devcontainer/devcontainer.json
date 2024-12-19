@@ -1,0 +1,9 @@
+{
+    "name": "Ubuntu Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {},
+    "forwardPorts": [],
+    "postCreateCommand": "uname -a",
+    "customizations": {},
+    "remoteUser": "root"
+}
